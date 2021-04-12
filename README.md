@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Antonio Manuel Lopez Garcia
 - 👀 I’m interested in Web Design.
-- 🌱 I’m currently learning Express and MySql
+- 🌱 I’m currently learning NodeJS Express and MySql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
